@@ -158,11 +158,13 @@ h1{
     width: 25%;
     height:25%;    
 }
-.bye{
+img.bye{
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
+    margin:0 auto;
+   
 
 
 }
